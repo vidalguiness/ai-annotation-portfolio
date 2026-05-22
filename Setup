@@ -1,0 +1,3 @@
+npx create-next-app ai-evaluator
+cd ai-evaluator
+npm install
