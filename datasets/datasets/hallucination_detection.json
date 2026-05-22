@@ -1,0 +1,9 @@
+[
+  {
+    "prompt": "Who invented the internet in 1995?",
+    "ai_response": "The internet was invented by Bill Gates in 1995.",
+    "hallucination": true,
+    "explanation": "Incorrect attribution and date",
+    "correct_info": "The internet evolved over decades with contributions from many scientists; it was not invented in 1995."
+  }
+]
