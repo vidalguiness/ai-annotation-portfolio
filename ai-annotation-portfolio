@@ -1,0 +1,21 @@
+ai-annotation-portfolio/
+│
+├── README.md
+├── datasets/
+│   ├── response_evaluation.json
+│   ├── hallucination_detection.json
+│   ├── safety_classification.json
+│
+├── rubrics/
+│   ├── evaluation_rubric.md
+│   ├── safety_guidelines.md
+│
+├── examples/
+│   ├── before_after_improvements.md
+│   ├── edge_case_analysis.md
+│
+├── tools/
+│   ├── annotation_template.csv
+│
+└── demo/
+    └── sample_tasks.md
